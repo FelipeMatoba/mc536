@@ -6,4 +6,4 @@
 # Tarefa 2
 
   * Nesta tarefa foi feito um diagrama representando e relacionando alguns dos dados que poderão ser utilizados no trabalho.
-  ![Diagrama](/images/diagrama_dados.png)
+  ![Diagrama](images/diagrama_dados.png)
